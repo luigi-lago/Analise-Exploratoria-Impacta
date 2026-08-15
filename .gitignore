@@ -52,3 +52,9 @@ results/
 
 # Arquivos de configuração pessoais
 *.env
+
+# Dados processados (dados crus são documentados, não versionados)
+data/processed/
+
+# Checkpoints de novos notebooks
+Notebooks_v2/.ipynb_checkpoints/
